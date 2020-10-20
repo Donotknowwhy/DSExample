@@ -1,0 +1,9 @@
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\bin\Debug\Algorithmus.exe
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\bin\Debug\Algorithmus.pdb
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.csprojAssemblyReference.cache
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.FrmMain.resources
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.Properties.Resources.resources
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.csproj.GenerateResource.cache
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.csproj.CoreCompileInputs.cache
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.exe
+C:\Users\BVCN 88\Desktop\DS\DsExamples\Backup\Algorithmus\obj\Debug\Algorithmus.pdb

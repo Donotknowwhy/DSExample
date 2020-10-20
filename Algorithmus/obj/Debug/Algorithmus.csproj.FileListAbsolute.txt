@@ -1,0 +1,8 @@
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.exe
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.pdb
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\bin\Debug\Algorithmus.exe
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\bin\Debug\Algorithmus.pdb
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.csprojResolveAssemblyReference.cache
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.FrmMain.resources
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.Properties.Resources.resources
+C:\Users\503\Downloads\thuchanh\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.csproj.GenerateResource.Cache

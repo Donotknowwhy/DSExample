@@ -1,0 +1,10 @@
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\ResolveAssemblyReference.cache
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.FrmMain.resources
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.Properties.Resources.resources
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.csproj.GenerateResource.Cache
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\bin\Debug\Algorithmus.exe
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\bin\Debug\Algorithmus.pdb
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.exe
+D:\Utic\SourceCode\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.pdb
+D:\Utic\SourceCode\DS_student\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.exe
+D:\Utic\SourceCode\DS_student\DS\DsExamples\Algorithmus\obj\Debug\Algorithmus.pdb
